@@ -1,6 +1,6 @@
 # Arduino Drink Mixer
 
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+Our project is an automatic drink mixer that can be operated with the press of a button.
 
 ## Summary
 
@@ -18,9 +18,9 @@ Our project will begin by simply using the servo motors to move custom stoppers 
 
 Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
-Input: buttons+LCD or touchscreen interface to input what beverage or beverage mixture is desired.
+Input: buttons+LCD or touchscreen interface to input what beverage or beverage mixture is desired. These will be routed through the arduino board.
 
-Output: Different nozzles pouring different types of liquids into the cup to create the perfect beverage.
+Output: Different nozzles pouring different types of liquids into the cup to create the perfect beverage. We will need to optimize the mix levels to create the best drinks.
 
 ## Challenges
 
@@ -33,9 +33,9 @@ We anticipate that it will be very challenging to figure out the timing of all t
 What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible! 
 
 - Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
+- Week 2: Obtain all components, create initial prototype and work out any main theoretical issues
+- Week 3: Obtain any components forgotten in the previous week, create a working, but not refined prototype
+- Week 4: Finalize design, construct final machine and work on aesthetics
 - Week 5: Present!
 
 ## References and link
