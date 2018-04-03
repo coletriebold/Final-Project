@@ -18,6 +18,9 @@ Our project will begin by simply using the servo motors to move custom stoppers 
 
 Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
+Input: buttons+LCD or touchscreen interface to input what beverage or beverage mixture is desired.
+Output: Different nozzles pouring different types of liquids into the cup to create the perfect beverage.
+
 ## Challenges
 
 A brief discussion of what you anticipate will be the hardest and most time-consuming parts.
@@ -37,3 +40,7 @@ What parts of the project do you anticipate you will complete in each of the nex
 ## References and link
 
 Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
+
+Inspired by the combination of these two videos:
+https://www.youtube.com/watch?v=O1G38ERVCtg
+https://www.youtube.com/watch?v=k0ERi0Bt8Gk
